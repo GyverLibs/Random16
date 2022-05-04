@@ -1,3 +1,5 @@
+This is an automatic translation, may be incorrect in some places. See sources and examples!
+
 # Random16
 Library for fast generation of 16 bit random numbers
 - Algorithm random 2053
